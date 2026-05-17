@@ -1,0 +1,6 @@
+{
+  "name": "画面いっぱい表示版（２手詰）",
+  "description": "終盤練習ができるアプリです。あなたの指し手に対して自動で応手します。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
